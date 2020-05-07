@@ -1,2 +1,1 @@
-# login-by-facebook
-For user login by facebook account
+Sala-2020-05-07
